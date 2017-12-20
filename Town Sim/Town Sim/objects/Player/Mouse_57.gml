@@ -1,0 +1,1 @@
+if (!position_meeting(mouse_x,mouse_y,gui)){scr_tile_change(mouse_x, mouse_y, 101)}

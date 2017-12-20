@@ -1,0 +1,1 @@
+if (creatingCooldown<=0){creating = false}

@@ -1,0 +1,10 @@
+scr_save_world()
+
+ds_grid_destroy(chunk_grid)
+ds_grid_destroy(object_grid)
+ds_grid_destroy(lots_grid)
+ds_grid_destroy(tile_grid)
+ds_grid_destroy(block_grid)
+ds_grid_destroy(item_grid)
+ds_grid_destroy(player_items_grid)
+ds_grid_destroy(world_items_grid)

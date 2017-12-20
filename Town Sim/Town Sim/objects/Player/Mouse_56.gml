@@ -1,0 +1,1 @@
+if (!position_meeting(mouse_x,mouse_y,gui)){scr_block_change(mouse_x, mouse_y, 1)}

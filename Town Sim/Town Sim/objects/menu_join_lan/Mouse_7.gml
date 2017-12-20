@@ -1,0 +1,1 @@
+scr_join_region(get_string("IP Address", "192.168.1.9"),get_string("Name", "client"))

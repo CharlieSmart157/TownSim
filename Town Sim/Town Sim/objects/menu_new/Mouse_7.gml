@@ -1,0 +1,1 @@
+scr_new_region("My Region")
